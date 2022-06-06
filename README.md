@@ -1,0 +1,2 @@
+# ams
+auction manager service
